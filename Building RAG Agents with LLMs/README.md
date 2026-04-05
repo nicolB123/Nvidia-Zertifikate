@@ -6,7 +6,8 @@
 
 **Documents + Embeddings -> Labs 05, 06**
 
-**Guardrails -> Lab 64**
+**Guardrails -> Lab 6.4**
 
 **Vector Stores + Evaluation -> Labs 07, 08**
 
+**LangServe + Assessment Code -> Lab 09**

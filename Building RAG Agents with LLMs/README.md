@@ -1,10 +1,10 @@
 # Inhalte des Kurses: Building RAG Agents with LLMs
 
--> Nvidia LLM Services
+**Nvidia LLM Services -> Labs 01, 02**
 
--> LangChain + Running States
+**LangChain + Running States -> Labs 03, 04**
 
--> Documents + Embeddings
+**Documents + Embeddings -> Labs 05, 06**
 
--> Vector Stores + Evaluation
+**Vector Stores + Evaluation -> Labs 07, 08**
 

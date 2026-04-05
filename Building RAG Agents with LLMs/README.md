@@ -6,5 +6,7 @@
 
 **Documents + Embeddings -> Labs 05, 06**
 
+**Guardrails -> Lab 64**
+
 **Vector Stores + Evaluation -> Labs 07, 08**
 

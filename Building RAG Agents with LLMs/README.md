@@ -1,13 +1,21 @@
 # Inhalte des Kurses: Building RAG Agents with LLMs
 
-**Nvidia LLM Services -> Labs 01, 02**
+**Lab 01 -> Nvidia Microservices NIM**
 
-**LangChain + Running States -> Labs 03, 04**
+**Lab 02 -> Nvidia Large Language Models**
 
-**Documents + Embeddings -> Labs 05, 06**
+**Lab 03 -> LangChain**
 
-**Guardrails -> Lab 6.4**
+**Lab 04 -> Running States**
 
-**Vector Stores + Evaluation -> Labs 07, 08**
+**Lab 05 -> Documents**
 
-**LangServe + Assessment Code -> Lab 09**
+**Lab 06 -> Embeddings**
+
+**Lab 6.4 -> Guardrails**
+
+**Lab 07 -> Vectorstores**
+
+**Lab 08 -> Evaluation**
+
+**Lab 09 -> Assessment**
